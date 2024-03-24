@@ -33,10 +33,10 @@ The scatter plot matrix provides a pairwise comparison of the features colored b
 A statistical analysis of the dataset indicates significant differences in sepal length among the species. The logistic regression model built on the features yields high accuracy, suggesting that these measurements are effective predictors for classifying iris species.
 
 ## Files in the Repository
--'iris.csv': The dataset file.
--'R_Script_Iris.txt': R script containing the analysis, including data exploration, visualization, and model building.
--'visualizations': Folder containing all the generated plots as PNG images.
--'Visualizations and comments_Iris.pdf': this pdf contains a desciptions of the visualizations plots (scatter plots, Histograms, etc... ) 
+-`iris.csv`: The dataset file.
+-`R_Script_Iris.txt`: R script containing the analysis, including data exploration, visualization, and model building.
+-`Visualizations`: Folder containing all the generated plots as PNG images.
+-`Visualizations and comments_Iris.pdf`: this pdf contains a desciptions of the visualizations plots (scatter plots, Histograms, etc... ) 
 
 ## Running the Analysis
 To run the analysis, make sure you have R installed with the required libraries ggplot2, GGally, and corrplot. You can install the libraries using the install.packages() function in R. Then, execute the script analysis.R.
