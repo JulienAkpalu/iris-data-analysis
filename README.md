@@ -34,8 +34,11 @@ A statistical analysis of the dataset indicates significant differences in sepal
 
 ## Files in the Repository
 -`iris.csv`: The dataset file.
+
 -`R_Script_Iris.txt`: R script containing the analysis, including data exploration, visualization, and model building.
+
 -`Visualizations`: Folder containing all the generated plots as PNG images.
+
 -`Visualizations and comments_Iris.pdf`: this pdf contains a desciptions of the visualizations plots (scatter plots, Histograms, etc... ) 
 
 ## Running the Analysis
