@@ -2,7 +2,7 @@
 Analysis of the Iris dataset using R
 
 ## Iris Data Analysis
-This repository contains a detailed exploratory data analysis of the Iris dataset. The Iris dataset is a classic and very easy multivariate dataset to test classification algorithms and visualizations.
+This repository contains a detailed exploratory data analysis of the Iris dataset. The Iris dataset is a classic and multivariate dataset to test classification algorithms and visualizations.
 
 ## Dataset Description
 The dataset contains 150 observations of iris flowers from three different species: Iris Setosa, Iris Versicolor, and Iris Virginica. There are four features measured in centimeters: the lengths and the widths of the sepals and petals.
