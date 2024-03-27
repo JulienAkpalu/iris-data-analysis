@@ -39,7 +39,7 @@ A statistical analysis of the dataset indicates significant differences in sepal
 
 -`Visualizations`: Folder containing all the generated plots as PNG images.
 
--`Visualizations and comments_Iris.pdf`: this pdf contains a desciptions of the visualizations plots (scatter plots, Histograms, etc... ) 
+-`Visualizations and comments_Iris.pdf`: this pdf contains a description of the visualizations plots (scatter plots, Histograms, etc... ) 
 
 ## Running the Analysis
 To run the analysis, make sure you have R installed with the required libraries ggplot2, GGally, and corrplot. You can install the libraries using the install.packages() function in R. Then, execute the script analysis.R.
