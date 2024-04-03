@@ -1,12 +1,11 @@
 ## Set the working directory
 
-setwd("C:/Users/julie/Desktop/GITHUB/iris")
+setwd("C:/Users/julien/Desktop/GITHUB/iris")
 
 ## Install packages
 
 install.packages("nnet")
 library(nnet)
-
 
 ## Importing data
 
